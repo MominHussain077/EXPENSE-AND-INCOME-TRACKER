@@ -1,5 +1,4 @@
-# mad_exam
-
+EXPENSE AND INCOME TRACKER
 A new Flutter project.
 
 ## Getting Started
