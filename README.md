@@ -16,7 +16,19 @@ A beautiful and feature-rich **Expense & Income Tracker** application built with
 - ☁️ **Cloud Sync** - Data stored securely in Firebase Firestore
 - 📱 **Cross-Platform** - Works on Android, iOS, Web, Windows, macOS, and Linux
 
-## 🛠️ Tech Stack
+## � Screenshots
+
+<p align="center">
+  <img src="screenshots/login.png" width="250" alt="Login Screen"/>
+  <img src="screenshots/home.png" width="250" alt="Home Screen"/>
+  <img src="screenshots/add_expense.png" width="250" alt="Add Expense"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/add_income.png" width="250" alt="Add Income"/>
+</p>
+
+## �🛠️ Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
